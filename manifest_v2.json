@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "com.orz.ooo",
+    "restype": "quick_app",
+    "name": "单词 Ciallo",
+    "description": "注意: 下列简介均由AI生成\nCiallo 是一个免费的英语背单词软件：高中阶段 5233 个词，一次一词，把注意力留在词上。\n学习和复习走的是两套引擎 —— 学习用莱特纳盒（Leitner）分组推进，复习用 SM-2 变体安排间隔；两者都支持单独调节节奏，想快想慢由你掌握。学习时还提供选择题等多种作答方式。\n界面刻意做得轻：首页以风景图打底，卡片半透明浮于其上；学习与复习页面换成模糊亚克力背景，把单词衬得干净、耐看。\n特点: \n高中 5233 词 —— 完整词库，一次一词\n两套记忆引擎 —— 学习：莱特纳盒分组推进；复习：SM-2 变体安排间隔\n节奏可调 —— 学习与复习分别设置，快慢自己定\n多种作答 —— 选择题等多种方式，不只是翻卡\n半透明卡片 · 风景背景 —— 首页界面轻，不抢词\n模糊亚克力 —— 学习与复习页面的毛玻璃底，久看不累\nAIGC 声明\n本程序的大部分代码（包括设计图和本文案）由 DeepSeek 生成。",
+    "preview": [
+      "media/screenShot_1791324327.png",
+      "media/screenShot_1791324352.png",
+      "media/screenShot_1791328400.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/lookup (1) (2).png",
+    "author": [
+      {
+        "name": "oraserz",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0",
+      "file_name": "downloads/com.orz.ooo.release.1.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
